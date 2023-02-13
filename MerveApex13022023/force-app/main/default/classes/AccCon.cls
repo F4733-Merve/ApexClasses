@@ -20,7 +20,7 @@ public class AccCon {
             Account s=new Account();
             s.Name=d;
             h.add(s);
-        }//for bitiş
+        }
         insert h;
     }
 }
